@@ -4,7 +4,7 @@ tags: [Machine Learning, Genetic Algorithm, p5js, Visualisation]
 image:
   src: /images/smart-rockets.png
   alt: ""
-timestamp: 2022-06-19
+timestamp: 2023-06-19
 description: This is a showcase of genetic algorithms, a search heuristic inspired by natural evolution.
 
 deployment: https://smartrockets-elliott.netlify.app/

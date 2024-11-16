@@ -4,7 +4,7 @@ tags: [HTML, CSS, Javascript, Google]
 image:
   src: /images/seamless-transition-solution.png
   alt: "Seamless Transition"
-timestamp: 2024-01-18
+timestamp: 2023-01-18
 description: An seamless transition of Google legacy site  
 deployment: https://sites.google.com/view/thedynamicpacific
 ---

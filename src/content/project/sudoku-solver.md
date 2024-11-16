@@ -4,7 +4,7 @@ tags: [Algorithm, Backtracking, p5js, Game]
 image:
   src: /images/sudoku-solver.png
   alt: ""
-timestamp: 2022-03-06
+timestamp: 2023-03-06
 description: A sudoku solver that utilises backtracking to enumerate and exhaust all possible board states.
 
 deployment: https://sudoku-solver-elliott.netlify.app/

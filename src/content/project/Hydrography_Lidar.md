@@ -4,7 +4,7 @@ tags: [Watershed Analysis, LiDAR, Mapping]
 image:
   src: /images/HydroLiDAR.png
   alt: "Hydrographic Analysis with LiDAR"
-timestamp: 2023-07-13
+timestamp: 2024-07-13
 description: A new algorithm and associated software tools for the purpose of extracting watershed hydrography directly from light detection and ranging (LiDAR) data.
 codeLink: https://github.com/pingyangtiaer/HydroLiDAR
 ---

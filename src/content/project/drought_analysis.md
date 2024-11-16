@@ -4,7 +4,7 @@ tags: [Drought Analysis, Data Visualization with Python, Mapping]
 image:
   src: /images/Drought_Analysis.png
   alt: "Drought Analysis Map"
-timestamp: 2023-08-13
+timestamp: 2024-08-13
 description: An interactive Drought Analysis Map application, designed to offer real-time insights into drought conditions, aiding in environmental research and predictive analysis.
 codeLink: https://github.com/PeterTFS/ERC
 deployment: https://ticc.tamu.edu/PredictiveServices/erc_seasonal.aspx

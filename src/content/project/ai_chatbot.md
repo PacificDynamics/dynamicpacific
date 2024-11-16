@@ -4,7 +4,7 @@ tags: [ChatBot, Gemini Pro, LLM]
 image:
   src: /images/ai_chatbot.png
   alt: "AI ChatBot"
-timestamp: 2023-12-23
+timestamp: 2024-10-22
 description: Designed with a focus on enhancing user engagement and providing swift, accurate responses, this chatbot represents a significant step forward in digital customer interaction and support.
 deployment: https://aichatbot-phi.vercel.app/
 ---
